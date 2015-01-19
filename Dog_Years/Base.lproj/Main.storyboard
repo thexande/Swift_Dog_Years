@@ -165,7 +165,7 @@
                         <outlet property="d_days_label" destination="px5-Li-pHM" id="Dzd-KJ-gWk"/>
                         <outlet property="d_min_label" destination="sjB-RN-2cs" id="6Rk-Y0-uV0"/>
                         <outlet property="d_sec_label" destination="iLk-Lz-M4Z" id="TTw-QH-KKv"/>
-                                               <outlet property="h_years" destination="eaq-mf-8ZL" id="vyX-Pd-Th1"/>
+                        <outlet property="h_years" destination="eaq-mf-8ZL" id="vyX-Pd-Th1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>

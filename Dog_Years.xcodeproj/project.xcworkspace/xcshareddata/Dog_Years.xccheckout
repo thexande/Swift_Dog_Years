@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5CB3FE66-F550-4633-A3C7-DEBD20FB7411</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dog_Years</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5844DE8B3582FDDF74B9D51B9178396B4E320A9</key>
+		<string>https://github.com/thexande/Swift_Dog_Years.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dog_Years.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F5844DE8B3582FDDF74B9D51B9178396B4E320A9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thexande/Swift_Dog_Years.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5844DE8B3582FDDF74B9D51B9178396B4E320A9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5844DE8B3582FDDF74B9D51B9178396B4E320A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dog_Years</string>
+		</dict>
+	</array>
+</dict>
+</plist>
